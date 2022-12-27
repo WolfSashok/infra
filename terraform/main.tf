@@ -2,7 +2,7 @@ terraform {
     # Версия terraform
     required_version = "1.3.6"
 }
-
+#VSC installed
 
 provider "google" {
     # Версия провайдера
