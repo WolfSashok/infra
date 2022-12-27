@@ -3,7 +3,7 @@ terraform {
     required_version = "1.3.6"
 }
 #VSC installed
-
+#Правка старого клона
 provider "google" {
     # Версия провайдера
     #version = "2.0.0"
